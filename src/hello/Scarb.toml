@@ -1,0 +1,8 @@
+[package]
+name = "hello"
+version = "0.1.0"
+description = "hello contract"
+homepage = "https://github.com/nestorbonilla/starknet-accounts/tree/main/src/hello"
+
+[dependencies]
+starknet = ">=2.0.0"
